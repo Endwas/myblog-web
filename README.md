@@ -19,14 +19,14 @@
 
 ## 二、分类页面
 显示分类名称，点击可以显示不同的分类文章
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172042554.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210118184355599.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
 
 
 
 ## 三、时间轴
 采用两边分开的阶梯状按照时间顺序来展示
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172058877.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210118184333633.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
 
 
 ## 四、音乐盒
