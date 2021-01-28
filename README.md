@@ -23,7 +23,6 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210118184355599.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
 
 
-
 ## 三、时间轴
 采用两边分开的阶梯状按照时间顺序来展示
 
@@ -44,4 +43,65 @@
 
 
 ## 六、友人帐（友链）
-添加友链要
+添加友链要求和显示友链
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021011417242111.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+## 七、照片墙
+采用了一个开源的插件，自己进行了修改，可以根据屏幕分辨率的不同来显示，放大缩小图片基本不形变
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172440985.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+## 八、关于我
+静态页面，一些博主的信息
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172451981.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+## 九、后台管理
+### 登录页面
+登录后台操作的页面
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021011417252259.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+### 1.文章管理
+可以对文章进行增加、编辑修改、删除，还可以搜索文章
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172712185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+
+### 2.文章编辑
+使用markdown插件显示页面
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172726136.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+
+### 3.友链管理
+可以对友链进行增加、编辑修改、删除
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172751202.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+### 4.友链编辑
+对友链进行增加删除
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2021011417281239.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+### 5.相册管理
+可以对照片进行增加、编辑修改、删除
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172834452.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+### 6.相册编辑
+对相册进行增加和删除
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172844345.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+### 7.分类管理
+可以对分类进行增加、编辑修改、删除
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172900987.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
+
+### 8.分类编辑
+对分类进行增加和删除
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210114172959981.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwOTIyNjE2,size_16,color_FFFFFF,t_70#pic_center)
+
